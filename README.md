@@ -1,2 +1,2 @@
 # migration-assignment
-# I got problem with git bash that why I couldn't upload full app. I upload only migration files. 
+# I have a problem with git bash that's why I couldn't upload the full app. I upload only migration files. 
